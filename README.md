@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Marcial !</h1>
 <h3 align="center">Front end developer =)</h3>
 
-- 🌱 I’m currently learning **English and express js**
+- 🌱 I’m currently learning 
 
 - 💬 Ask me about **React js and Next 13**
 
-- 📫 How to reach me **marcialfantini@gmail.com**
+- 📫 How to reach me **marcialfantinijs@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
